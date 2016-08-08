@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Digital Leash Child App</string>
+    <string name="welcome">Splash Screen</string>
+    <string name="title">Digital Leash</string>
+    <string name="ws_tv_2">Where are your kids?</string>
+    <string name="username">Parents\' Username</string>
+    <string name="radius">Radius</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="create">Create</string>
+    <string name="check_status">Check Status</string>
+    <string name="update">Update</string>
+    <string name="report">Report Location</string>
+    <string name="report_success">Your location is now being reported!</string>
+    <string name="done">Done</string>
+</resources>
